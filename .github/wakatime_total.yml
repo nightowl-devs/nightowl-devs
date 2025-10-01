@@ -1,0 +1,31 @@
+name: WakaTime Lifetime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch WakaTime Total Time
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          TOTAL_TIME=$(curl -s "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=${WAKATIME_API_KEY}" | jq -r '.data.text')
+
+          
+          sed -i "/<!--TOTAL_HOURS-->/c\**Total Coding Time:** $TOTAL_TIME <!--TOTAL_HOURS-->" README.md
+
+      - name: Commit & Push
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "chore: update total coding time"
+          git push
