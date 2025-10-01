@@ -3,6 +3,8 @@
 I'm **Stanisław**, a passionate 16-year-old developer from Poland.  
 Currently working on [@ZaliczTo-PL](https://github.com/ZaliczTo-PL).  
 You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
+<br>
+<!--TOTAL_HOURS-->
 
 ---
 
@@ -95,13 +97,11 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 
 ---
 
-<!--
-## WakaTime
+## WakaTime Stats
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=nightowldev&theme=codeSTACKr&hide_border=true)](https://wakatime.com/@nightowl-devs)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
-!-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NightOwlDevelopment&style=flat&color=blue" alt="Profile Views" />
 </p>
