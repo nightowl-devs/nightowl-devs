@@ -100,6 +100,15 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Java                  6 hrs 52 mins   ████████████████████▒░░░░   80.88 %
+YAML                  23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Gradle                18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Markdown              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+HTML                  12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+```
+
 <!--END_SECTION:waka-->
 ---
 <p align="center">
