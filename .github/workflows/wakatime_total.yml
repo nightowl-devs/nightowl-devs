@@ -13,19 +13,25 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Fetch WakaTime Total Time
+      - name: Fetch WakaTime All-Time Coding Time
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          TOTAL_TIME=$(curl -s "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=${WAKATIME_API_KEY}" | jq -r '.data.text')
-
+          response=$(curl -s "https://wakatime.com/api/v1/users/nightowldev/stats/all_time?api_key=${WAKATIME_API_KEY}")
           
-          sed -i "/<!--TOTAL_HOURS-->/c\**Total Coding Time:** $TOTAL_TIME <!--TOTAL_HOURS-->" README.md
+          total_seconds=$(echo "$response" | jq '[.data.categories[].total_seconds] | add')
 
-      - name: Commit & Push
+          total_hours=$(echo "$total_seconds/3600" | bc)
+          total_minutes=$(echo "($total_seconds%3600)/60" | bc)
+
+          total_time="${total_hours} hrs ${total_minutes} mins"
+
+          sed -i "/<!--TOTAL_HOURS-->/c\**Total Coding Time:** $total_time <!--TOTAL_HOURS-->" README.md
+
+      - name: Commit and Push changes
         run: |
-          git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "chore: update total coding time"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update total coding time"
           git push
