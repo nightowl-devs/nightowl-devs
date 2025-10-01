@@ -4,7 +4,8 @@ I'm **Stanisław**, a passionate 16-year-old developer from Poland.
 Currently working on [@ZaliczTo-PL](https://github.com/ZaliczTo-PL).  
 You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 <br>
-**Total Coding Time:** null <!--TOTAL_HOURS-->
+</br>
+**Total Coding Time:**  <!--TOTAL_HOURS-->
 
 ---
 
@@ -97,7 +98,7 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 
 ---
 
-## WakaTime Stats
+## Coding this week
 
 <!--START_SECTION:waka-->
 
