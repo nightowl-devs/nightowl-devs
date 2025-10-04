@@ -103,11 +103,11 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 45 mins   ████████████████▒░░░░░░░░   64.78 %
-YAML              46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Python            42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Gradle            16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Markdown          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Java                  3 hrs 56 mins   ██████████████▓░░░░░░░░░░   58.13 %
+YAML                  45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Python                42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Markdown              28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Gradle                17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
