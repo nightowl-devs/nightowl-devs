@@ -103,11 +103,11 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-Other         3 hrs 51 mins   ████████░░░░░░░░░░░░░░░░░   32.05 %
-C++           3 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
-TypeScript    1 hr 53 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-PHP           1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-CMake         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+C++              3 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.22 %
+Other            2 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.50 %
+TypeScript       1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+CMake            33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Groff            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
