@@ -103,11 +103,11 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-Other            3 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.25 %
-Python           3 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   28.02 %
-TypeScript       2 hrs 28 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-Swift            1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Groff            34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Other            3 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   27.59 %
+Python           3 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
+TypeScript       2 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+Java             1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Swift            47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 ```
 
 <!--END_SECTION:waka-->
