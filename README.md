@@ -5,7 +5,7 @@ Currently working on [@ZaliczTo-PL](https://github.com/ZaliczTo-PL).
 You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 <br>
 </br>
-**Total Coding Time:** 1000 hrs 56 mins <!--TOTAL_HOURS-->
+**Total Coding Time:** 1004 hrs 52 mins <!--TOTAL_HOURS-->
 
 ---
 
