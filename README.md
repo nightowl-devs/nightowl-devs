@@ -103,11 +103,11 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-PHP           2 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.11 %
-Image (svg)   1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-Other         35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-Groff         34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Python        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+PHP           1 hr 47 mins    █████████░░░░░░░░░░░░░░░░   36.13 %
+Image (svg)   1 hr 15 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
+Other         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+CSS           20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Markdown      19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
 
 <!--END_SECTION:waka-->
