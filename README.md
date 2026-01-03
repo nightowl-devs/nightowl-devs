@@ -103,10 +103,10 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       23 hrs 30 mins  █████████████████▒░░░░░░░   68.73 %
-Kotlin                     7 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
+Java                       23 hrs 30 mins  █████████████████▒░░░░░░░   68.68 %
+Kotlin                     7 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
 Other                      1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-JSON                       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+JSON                       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 Mixin Json Configuration   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
