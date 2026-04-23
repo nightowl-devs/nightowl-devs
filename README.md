@@ -7,15 +7,6 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 </br>
 **Total Coding Time:** 1464 hrs 41 mins <!--TOTAL_HOURS-->
 
----
-
-### Socials & Contact
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stanislawbotwina)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@nightowl.dev)
-
----
-
 ## Tech Stack
 
 ### Languages
