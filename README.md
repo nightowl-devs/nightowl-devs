@@ -73,6 +73,7 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white"/>
 </p>
+<!--
 
 ---
 
@@ -82,9 +83,8 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nightowl-devs&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=nightowl-devs&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
-
 ![Top Languages](./profile/top-langs.svg)
+-->
 
 ---
 
