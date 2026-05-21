@@ -78,11 +78,11 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nightowl-devs&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sooty-nu-61.vercel.app/api?username=nightowl-devs&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nightowl-devs&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nightowl-devs&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=nightowl-devs&layout=compact&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
