@@ -91,11 +91,11 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    4 hrs 40 mins         █████████░░░░░░░░░░░░░░░░   35.49 %
-Java          4 hrs                 ███████▓░░░░░░░░░░░░░░░░░   30.42 %
-Other         3 hrs 49 mins         ███████▒░░░░░░░░░░░░░░░░░   29.00 %
-JSON          11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-jsonc         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+TypeScript     4 hrs 7 mins          ████████▒░░░░░░░░░░░░░░░░   33.17 %
+Java           4 hrs                 ████████░░░░░░░░░░░░░░░░░   32.23 %
+Other          3 hrs 46 mins         ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+jsonc          9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Image (svg)    5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
