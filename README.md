@@ -91,11 +91,11 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     1 hr 50 mins          ████████████████████░░░░░   79.76 %
-Prisma         16 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-JSON           8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-TSConfig       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-shell script   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript     1 hr 17 mins          ██████████████████▒░░░░░░   73.34 %
+Prisma         16 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+JSON           8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+TSConfig       2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+shell script   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
