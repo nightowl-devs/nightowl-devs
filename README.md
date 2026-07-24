@@ -1,7 +1,7 @@
 # Hi there 👋,
 
 I'm **Stanisław**, a passionate developer from Poland.  
-Currently working on [@ZaliczTo-PL](https://github.com/ZaliczTo-PL).  
+Currently working on [@ZaliczToPL](https://github.com/ZaliczToPL).  
 You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 
 **Total Coding Time:** 1746 hrs 21 mins <!--TOTAL_HOURS-->
