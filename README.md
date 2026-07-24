@@ -82,10 +82,10 @@ You can view my portfolio here: [https://nightowl.dev](https://nightowl.dev)
 ![GitHub Streak](https://streak-stats.demolab.com?user=nightowl-devs&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](./profile/top-langs.svg)
--->
+
 
 ---
-
+-->
 ## Coding this week
 
 <!--START_SECTION:waka-->
