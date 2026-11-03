@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Stanis&#322;aw Botwina&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  : 285, Total PRs: 17, Total Issues: 6, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  : 285, Total PRs: 18, Total Issues: 6, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 217.2133389202139;
+        stroke-dashoffset: 216.5299336805415;
       }
     }
   
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >17</text>
+      >18</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
